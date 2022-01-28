@@ -167,3 +167,4 @@ const create = <P extends Record<string, unknown>>(
 }
 
 export default { create, ModalProvider, useModal }
+export { useModal }
